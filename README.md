@@ -23,7 +23,7 @@
 
 <p align="flex">
   <img src="https://raw.githubusercontent.com/pedro-lisboa/Next-Level-Week-2020/master/img-github/mobile.jpg" width=20%">
-  <img src="https://raw.githubusercontent.com/pedro-lisboa/Next-Level-Week-2020/master/img-github/web.png" width=80%">
+  <img src="https://raw.githubusercontent.com/pedro-lisboa/Next-Level-Week-2020/master/img-github/web.PNG" width=65%">
 </p>
 
 ## Recursos
