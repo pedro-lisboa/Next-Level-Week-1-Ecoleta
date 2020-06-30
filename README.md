@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img alt="Ecoleta" src="https://raw.githubusercontent.com/pedro-lisboa/Next-Level-Week-2020/master/img-github/logo.png" width="200px">
+  <img alt="Ecoleta" src="https://raw.githubusercontent.com/pedro-lisboa/Next-Level-Week-2020/master/img-github/logo.svg" width="200px">
 </h1>
 
 <h4 align="center">O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.</h4>
@@ -21,8 +21,9 @@
   <a href="#licença">Licença</a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pedro-lisboa/Next-Level-Week-2020/master/img-github/ecoleta.png" width=100%">
+<p align="flex">
+  <img src="https://raw.githubusercontent.com/pedro-lisboa/Next-Level-Week-2020/master/img-github/mobile.jpg" width=20%">
+  <img src="https://raw.githubusercontent.com/pedro-lisboa/Next-Level-Week-2020/master/img-github/web.png" width=80%">
 </p>
 
 ## Recursos
